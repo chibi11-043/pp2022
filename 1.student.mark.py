@@ -1,4 +1,5 @@
 
+
 #1. input number of students in a class
 from calendar import c
 from winsound import MB_ICONASTERISK
