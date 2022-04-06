@@ -86,7 +86,7 @@ while True :
     6.delete student course
     7.calculate the student's GPA
     ''')
-    select = input("Enter your choice : ")
+    select = int(input("Enter your choice : "))
 
     if str(select).isdigit():
         select = int(select)
